@@ -37,7 +37,7 @@ except FileNotFoundError:
         pickle.dump(embedding_database, f)
 
 # Function to recognize the face
-def recognize_face(new_embedding, embedding_database, threshold=0.6):  # Adjusted threshold
+def recognize_face(new_embedding, embedding_database, threshold=0.4):  # Adjusted threshold
     if len(embedding_database) == 0:
         return "Unknown"
 
