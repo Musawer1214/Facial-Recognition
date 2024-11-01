@@ -127,8 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Future Improvements
 This project aims to evolve with contributions and suggestions from the community. Some ideas for future enhancements include:
-- **Add Face Mask Detection**: Extend the capabilities to include mask detection, allowing the system to handle scenarios involving partial face occlusion even more effectively.
-- **Real-time Video Recognition**: Integrate continuous real-time face recognition for live video feeds, making it more suitable for monitoring applications.
 - **Database Management Features**: Add features to manage the database, such as deleting or updating existing records.
 - **Improved GUI**: Enhance the GUI with more modern design elements, user guidance, and support for additional features.
 
